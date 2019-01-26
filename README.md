@@ -1,5 +1,5 @@
 # Arduino_based_Ping_Pong_game
-Remmeber i wrote this code way back, and it is not programmed beautifully and has huge scope of optimisation ...my Apologies ! <br />
+Remember I wrote this code way back and it is not programmed beautifully and has huge scope of optimisation ... my Apologies ! <br />
 This game uses an 8X8 DotMatrix for Display <br />
 Two Potentiometers for Wedge control <br />
 Arduino as microcontroller <br />
